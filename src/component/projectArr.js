@@ -40,4 +40,5 @@ export default function projectArr () { return(
       'We had big plans for generating random characters, keeping track fo them as they level up and adventure' +
       'as well as keeping track of their belongings.  '
   },
-])}
+  ]
+)}
