@@ -23,7 +23,8 @@ const projectArr = [{
       title: 'Just Another Text Editor',
       href: 'https://github.com/Spikeophant/jate',
       content: 'A fun little text editor written in JavaScript, based on the CodeMirror library.  Using the dracula theme' +
-        'Right now, but expect enhancements and additionas in the future.  I will be hosting this at one of my community domains'
+        'Right now, but expect enhancements and additionas in the future.  I will be hosting this at one of my community domains',
+      deployment: 'https://amazing-jate.herokuapp.com/'
     },
     {
       title: 'The Readme Robot',
