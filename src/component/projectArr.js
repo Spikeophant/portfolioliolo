@@ -4,7 +4,8 @@ const projectArr = [{
     content: 'Food Saver was a group project in a front end software engineering bootcamp.  We built this with the' +
       'idea that we would have a database of recipes submitted by users, we would create a shopping list out of selected ' +
       'recipes, compared to a stored list of ingredients in your house.  This would allow you to create a shopping list' +
-      'For all the food you\'d want to make in a week.  You would also be able to search based on ingredients to find recipes'
+      'For all the food you\'d want to make in a week.  You would also be able to search based on ingredients to find recipes',
+    deployment: 'https://rocky-falls-73820.herokuapp.com/'
   },
     {
       title: 'Vigilant Telegram',
