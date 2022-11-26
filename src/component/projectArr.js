@@ -13,14 +13,16 @@ const projectArr = [{
       href: 'https://github.com/Spikeophant/vigilant-telegram',
       content: 'A simple blogging platform built in express and handlesbars.  It has some bugs but could be a good replacement' +
         'I am continuing to improve this codebase to use as a platform for my own blogs',
-      deployment: '#'
+      deployment: '#',
+      image: 'https://github.com/Spikeophant/portfolioliolo/raw/main/screencap.png'
     },
     {
       title: 'Supreme Thought Adventure',
       href: 'https://github.com/Spikeophant/supreme-adventure',
       content: 'A social media API based around thoughts, friends and sharing.  It is only the backend api using ' +
         'Express and mongoose',
-      deployment: '#'
+      deployment: '#',
+      image: 'https://github.com/Spikeophant/portfolioliolo/raw/main/screencap.png'
     },
     {
       title: 'Just Another Text Editor',
