@@ -29,12 +29,14 @@ export default function Content() {
 
     return (
       <div>
-        <header className="row" id="header-container">
+        <header id="header-container" className="pb-3">
           <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
         </header>
-        <section className="row" id='content'>
+        <div className="container-fluid ">
+        <section className="row m-5" id='content'>
           {renderPage()}
         </section>
+        </div>
     </div>
     );
 }

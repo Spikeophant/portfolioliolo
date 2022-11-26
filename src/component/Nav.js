@@ -1,19 +1,19 @@
 import React from 'react';
 
 
-export default function Nav({ currentPage, handlePageChange }) {
+export default function Nav({ handlePageChange }) {
   return(
-    <nav className="navbar navbar-expand-lg">
-      <a className='navbar-brand' href='#about'>Dustin Davisson</a>
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top mb-5">
+      <a className='navbar-brand' href='/#about'>Dustin Davisson</a>
       <ul className='navbar-nav mr-auto'>
         <li className='nav-item'>
-          <a className='nav-link' href='#about' onClick={() => handlePageChange('About')}>About Me</a>
+          <a className='nav-link' href='/#about' onClick={() => handlePageChange('About')}>About Me</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='#portfolio' onClick={() => handlePageChange('Portfolio')}>Portfolio</a>
+          <a className='nav-link' href='/#portfolio' onClick={() => handlePageChange('Portfolio')}>Portfolio</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='#contact' onClick={() => handlePageChange('Contact')}>Contact</a>
+          <a className='nav-link' href='/#contact' onClick={() => handlePageChange('Contact')}>Contact</a>
         </li>
         <li className='nav-item'>
           <a className='nav-link' href='https://www.linkedin.com/in/dustin-davisson-32349897/'>Resume</a>
