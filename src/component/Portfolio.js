@@ -5,7 +5,8 @@ import { projectArr } from './projectArr';
 const cardElements = projectArr.map((item, index) => {
   return (
     <Card
-      href={item.href} title={item.title} content={item.content} deployment={item.deployment} key={index} />
+      href={item.href} title={item.title} content={item.content}
+      deployment={item.deployment} image={item.image} key={index} />
   )
 })
 

@@ -1,9 +1,12 @@
 import React from 'react';
 
-export default function ({ href, title,  content, deployment }) {
+export default function ({ href, title,  content, deployment, image }) {
   return (
     <div className="col-md-4 col">
       <div className="card m-md-3">
+        <div className="card-img-top card-img">
+          <img src={image} alt="Application Image." className="img-fluid" />
+        </div>
         <div className="card-header">
           <h4 className="card-title">{ title } <a href={ href } target="_blank" rel="noreferrer" className="p-1">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="black" className="bi bi-github"
