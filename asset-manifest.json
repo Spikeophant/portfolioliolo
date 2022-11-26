@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolioliolo/static/css/main.a102879e.css",
-    "main.js": "/portfolioliolo/static/js/main.6558f88b.js",
+    "main.js": "/portfolioliolo/static/js/main.b0ff8fc2.js",
     "static/js/787.4dda9674.chunk.js": "/portfolioliolo/static/js/787.4dda9674.chunk.js",
     "static/media/logo.svg": "/portfolioliolo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolioliolo/index.html",
     "main.a102879e.css.map": "/portfolioliolo/static/css/main.a102879e.css.map",
-    "main.6558f88b.js.map": "/portfolioliolo/static/js/main.6558f88b.js.map",
+    "main.b0ff8fc2.js.map": "/portfolioliolo/static/js/main.b0ff8fc2.js.map",
     "787.4dda9674.chunk.js.map": "/portfolioliolo/static/js/787.4dda9674.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a102879e.css",
-    "static/js/main.6558f88b.js"
+    "static/js/main.b0ff8fc2.js"
   ]
 }
