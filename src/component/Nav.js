@@ -4,7 +4,7 @@ import React from 'react';
 export default function Nav({ handlePageChange }) {
   return(
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top mb-5">
-      <a className='navbar-brand' href='/#about'>Dustin Davisson</a>
+      <a className='navbar-brand' href='#'>Dustin Davisson</a>
       <ul className='navbar-nav mr-auto'>
         <li className='nav-item'>
           <a className='nav-link' href='#' onClick={() => handlePageChange('About')}>About Me</a>
