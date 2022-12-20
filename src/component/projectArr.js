@@ -33,11 +33,11 @@ const projectArr = [{
       image: 'https://github.com/Spikeophant/jate/raw/main/client/src/images/screencap.png'
     },
     {
-      title: 'Notetaker',
-      href: ' https://github.com/Spikeophant/urban-dollop-notetaker',
-      content: 'A note taking application utilizing node.js, express.js, html and css.',
-      deployment: 'https://dry-earth-88079.herokuapp.com/',
-      image: 'https://github.com/Spikeophant/urban-dollop-notetaker/raw/main/assets/screenshot.png'
+      title: 'FotoFusion',
+      href: ' https://github.com/as-janosik/FotoFusion',
+      content: 'Upload and manipulate avatar images for various social media sites',
+      deployment: 'https://fotofusionme.herokuapp.com/',
+      image: 'https://raw.githubusercontent.com/as-janosik/FotoFusion/main/HomeScreen.png'
     },
     {
       title: 'DnD Char Folio',
